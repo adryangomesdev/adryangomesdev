@@ -1,6 +1,6 @@
 ## Adryan Victor
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Backend`**
 
 Sou estudante de Ciência da Computação na Universidade Federal de Alagoas (UFAL) e meu principal objetivo de carreira é atuar como desenvolvedor Backend, com foco no ecossistema Java, e Analista de Inteligência Artificial. Tenho um forte interesse na resolução de problemas, estudando profundamente estruturas de dados e otimização de algoritmos utilizando Python. Em minha trajetória prática, destaco o desenvolvimento do projeto "Portal da Juventude" e a conquista do título de Vice-campeão da Maratona de Inovação da Superconnect. Essas experiências reforçam minha paixão por unir lógica e inovação para criar soluções tecnológicas, algo que também apliquei na criação do diário inteligente Aura e em diversos projetos de impacto social.
 
