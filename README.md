@@ -4,14 +4,12 @@
 
 Sou estudante de Ciência da Computação na Universidade Federal de Alagoas (UFAL) e meu principal objetivo de carreira é atuar como desenvolvedor Backend, com foco no ecossistema Java, e Analista de Inteligência Artificial. Tenho um forte interesse na resolução de problemas, estudando profundamente estruturas de dados e otimização de algoritmos utilizando Python. Em minha trajetória prática, destaco o desenvolvimento do projeto "Portal da Juventude" e a conquista do título de Vice-campeão da Maratona de Inovação da Superconnect. 
 
-<p align="left">
-    </a> 
+<p align="left"> 
     <a href="https://github.com/adryangomesdev?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/adryangomesdev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
     </a>
     <a href="https://github.com/adryangomesdev?tab=followers">
         <img 
