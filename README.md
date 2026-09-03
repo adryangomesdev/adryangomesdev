@@ -6,7 +6,7 @@ Sou estudante de Ciência da Computação na Universidade Federal de Alagoas (UF
 
 <p align="left">
     </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/adryangomesdev?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
