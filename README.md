@@ -68,7 +68,7 @@ Sou estudante de Ciência da Computação na Universidade Federal de Alagoas (UF
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
-/>
+
 <img 
     align="left" 
     alt="Git" 
