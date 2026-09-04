@@ -86,6 +86,9 @@ Sou estudante de Ciência da Computação na Universidade Federal de Alagoas (UF
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+<br clear="all"/>
+<br/>
+
 ### 📈Estatística
 
 <p>
@@ -105,5 +108,5 @@ Sou estudante de Ciência da Computação na Universidade Federal de Alagoas (UF
   />
 
 </p>
-
+<br clear="all"/>
 ---
