@@ -10,6 +10,7 @@ Sou estudante de Ciência da Computação na Universidade Federal de Alagoas (UF
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/adryangomesdev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
     </a>
     <a href="https://github.com/adryangomesdev?tab=followers">
         <img 
