@@ -95,16 +95,6 @@ Sou estudante de Ciência da Computação na Universidade Federal de Alagoas (UF
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
-
-<img 
-    align="left" 
-    alt="css3"
-    title="css3" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-
 <br clear="all"/>
 <br/>
 
